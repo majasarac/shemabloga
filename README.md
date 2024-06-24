@@ -1,0 +1,2 @@
+# shemabloga
+nacrt blog platforme
